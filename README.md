@@ -30,4 +30,4 @@ ___
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0ZGAnetwork&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ZGAnetwork&layout=compact&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ZGAnetwork&layout=compact&theme=midnight-purple)
