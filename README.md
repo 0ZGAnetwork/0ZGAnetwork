@@ -1,4 +1,4 @@
-# Hi there 👋
+# 0ZGAnetwork
 **Industrial automation engineer**  
 Welcome to my GitHub profile! I'm passionate about automation, control systems, and embedded technologies.  
 Feel free to explore my projects and get in touch! 🌱  
