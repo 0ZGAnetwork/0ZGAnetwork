@@ -22,7 +22,6 @@ ___
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee" />
 </a>
 ___
-## 🔧 Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0ZGAnetwork&show_icons=true&theme=radical)
