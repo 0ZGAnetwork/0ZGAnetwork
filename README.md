@@ -18,10 +18,6 @@ ___
   </a>
 </p>
 
-<a href="https://ko-fi.com/yourname">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee" />
-</a>
-
 ## 🔧 Tools & Technologies
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
