@@ -5,20 +5,16 @@ Feel free to explore my projects and get in touch! 🌱
 [Contact me](mailto:ozgaapawell@gmail.com)
 
 ___
-<div style="background-color: #800080; border: 5px solid yellow; padding: 20px; animation: slideIn 2s ease-in-out;">
-  <h3 style="color: white;">Prostokąt z fioletowym tłem i żółtą ramką!</h3>
-  <p style="color: white;">Kolor tła to fioletowy, a ramka jest żółta. <strong>Animacja przyciąga wzrok!</strong></p>
-</div>
 
 <p align="left">
-  <a href="https://www.twitch.tv/0zga">
-    <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
-  </a>
   <a href="https://www.linkedin.com/in/paweł-ozga-903a7230a/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ozgaapawell@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+    <a href="https://www.twitch.tv/0zga">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
 </p>
 
