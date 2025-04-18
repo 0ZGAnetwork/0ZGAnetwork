@@ -1,7 +1,7 @@
 # Hi there 👋
 **Industrial automation engineer**
-descriptions
-
+Welcome to my GitHub profile! I'm passionate about automation, control systems, and embedded technologies.  
+Feel free to explore my projects and get in touch! Feel free🌱
 <!--
 **0ZGAnetwork/0ZGAnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
