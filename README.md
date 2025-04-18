@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+*Industrial automation engineer
 <!--
 **0ZGAnetwork/0ZGAnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0ZGnetwork&show_icons=true&theme=radical)
