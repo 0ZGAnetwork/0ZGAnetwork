@@ -24,5 +24,7 @@ ___
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0ZGAnetwork&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twojaNazwa&layout=compact&theme=radical)
