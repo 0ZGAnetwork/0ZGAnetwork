@@ -36,16 +36,3 @@ ___
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0ZGAnetwork&show_icons=true&theme=transparent)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0ZGAnetwork&layout=compact&theme=transparent)
-
-<style>
-  @keyframes slideIn {
-    from {
-      transform: translateX(-100%);
-      opacity: 0;
-    }
-    to {
-      transform: translateX(0);
-      opacity: 1;
-    }
-  }
-</style>
