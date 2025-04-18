@@ -18,6 +18,12 @@ Feel free to explore my projects and get in touch! Feel free🌱
   </a>
 </p>
 
+<a href="https://ko-fi.com/yourname">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy me a coffee" />
+</a>
+
+___
+
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
