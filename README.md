@@ -2,6 +2,7 @@
 **Industrial automation engineer**
 Welcome to my GitHub profile! I'm passionate about automation, control systems, and embedded technologies.  
 Feel free to explore my projects and get in touch! Feel free🌱
+[Contact to me](mailto:ozgaapawell@gmail.com)
 <!--
 **0ZGAnetwork/0ZGAnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
@@ -12,9 +13,6 @@ ___
   </a>
   <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/paweł-ozga-903a7230a/)">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
-    <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="">
     <img scr="" />
