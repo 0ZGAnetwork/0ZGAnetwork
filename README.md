@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://your-portfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-%23007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+<p align="left">
+  <a href="https://https://www.twitch.tv/0zga">
+    <img src="https://img.shields.io/badge/Twitch-%23007ACC?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
