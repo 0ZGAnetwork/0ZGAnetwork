@@ -7,7 +7,7 @@ Feel free to explore my projects and get in touch! Feel free🌱
 **0ZGAnetwork/0ZGAnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 -->
 ___
-<div style="width: 300px; height: 150px; border: 2px solid #000; padding: 10px; background-color: #f4f4f4;">
+<div style="width: 300px; height: 150px; border: 2px solid #000; padding: 10px; background-color: #9719CF;">
   <h3>To jest prostokąt!</h3>
   <p>Możesz dodać treść wewnątrz tego prostokąta.</p>
 </div>
