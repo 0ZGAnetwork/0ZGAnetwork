@@ -1,7 +1,7 @@
 # Hi there 👋
-*Industrial automation engineer
+*Industrial automation engineer*
 <!--
-**0ZGAnetwork/0ZGAnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0ZGAnetwork/0ZGAnetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**
 
 Here are some ideas to get you started:
 
