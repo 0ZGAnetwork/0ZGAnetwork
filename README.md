@@ -33,7 +33,8 @@ ___
 ![Animated Badges](https://yourgiflink.com/animated_badges.gif)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+ ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Git Bash](https://img.shields.io/badge/Git_Bash-0E1111?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
